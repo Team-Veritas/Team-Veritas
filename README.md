@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+우리는 대한민국 인천에서 활동하고 있는 로봇동아리 "Veritas"입니다.
+
+인천에 거주하고 로봇에 관심이 있는 중학생, 고등학생들의 가입을 언제나 환영합니다.
+
 <!--
 **Team-Veritas/Team-Veritas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
